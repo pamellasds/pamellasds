@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=80&section=header&fontColor=fff&fontSize=30&fontAlignY=22"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=150&section=header&text=Pamella+Soares&fontColor=fff&fontSize=30&fontAlignY=22"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=28&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;I'm+blockchain+developer+and+researcher,+and+PhD+student.;I'm+from+Fortaleza,+Brazil.)](https://git.io/typing-svg)
 
