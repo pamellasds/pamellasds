@@ -2,15 +2,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=28&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;I'm+blockchain+developer+and+researcher,+and+PhD+student.;I'm+from+Fortaleza,+Brazil.)](https://git.io/typing-svg)
 
-- 👩‍💻 I’m currently working on Urbe.digital and I'm Ph.D. student at State University of Ceara.
+- 👩‍💻 I’m currently working on Urbe.digital and I'm a Ph.D. student at the State University of Ceara.
 - 🌐 I’m looking to collaborate and work on Blockchain Projects.
 - 💬 My current languages are Portuguese (Native) and English.
-- 🎾 I love play beach tennis in my free time.
+- 🎾 I love playing beach tennis in my free time.
 
 <div align="center">  
 <a target="_blank" href="mailto:pamella.soaresds@gmail.com?subject=Olá%Pamella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/pamellasds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.instagram.com/pamellasds/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.researchgate.net/profile/Pamella-Sousa"><img src="https://img.shields.io/badge/researchgate-%450077F5.svg?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 </div> 
 
@@ -34,6 +33,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-gray.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/-REST-gray.svg?&style=for-the-badge&logo=rest&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=for-the-badge&logo=linux&labelColor=gray)&nbsp;
+![Latex](https://img.shields.io/badge/-Latex-gray?style=for-the-badge&logo=latex&labelColor=gray)&nbsp;
 
 </details>
 
