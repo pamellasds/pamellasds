@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=28&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;I'm+blockchain+developer+and+researcher,+and+PhD+student.;I'm+from+Fortaleza,+Brazil.)](https://git.io/typing-svg)
 
 - 👩‍💻 I’m currently working on Bitshopp and I'm a Ph.D. student at the State University of Ceara.
-- 🌐 I’m looking to collaborate and work on Blockchain Projects.
 - 💬 My current languages are Portuguese (Native) and English.
-- 🎾 I love playing beach tennis in my free time.
 
 <div align="center">  
 <a target="_blank" href="mailto:pamella.soaresds@gmail.com?subject=Olá%Pamella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
